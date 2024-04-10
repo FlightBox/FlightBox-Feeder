@@ -6,7 +6,7 @@ NB! Your receiver must be already running!
 
 1. Open your terminal.
 
-2. Navigate to your desired directory using the `cd` command:
+2. Navigate to your home directory using the `cd` command:
     ```bash
     cd
     ```
