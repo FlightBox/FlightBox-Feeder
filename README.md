@@ -9,7 +9,7 @@ This repository contains a script to feed FlightBox.org with data. Follow the st
     cd
     ```
 
-3. Execute the following commands one by one:
+3. Execute the following command:
 
     ```bash
     sudo wget https://flightbox.org/downloads/fbfeeder.sh
