@@ -22,5 +22,5 @@ NB! Your receiver must be already running!
 
 4. Once executed, the script will feed data to FlightBox.org.
 
-Make sure you have appropriate permissions and dependencies installed before running the script.
+
 
