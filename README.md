@@ -1,6 +1,7 @@
 # FlightBox-Feeder
 
 This repository contains a script to feed FlightBox.org with data. Follow the steps below to utilize it:
+NOTE! Your receiver must be already running!
 
 1. Open your terminal.
 
