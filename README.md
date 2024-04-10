@@ -6,7 +6,6 @@ This repository contains a script to feed FlightBox.org with data. Follow the st
 
 2. Navigate to your desired directory using the `cd` command:
     ```bash
-    cd path_to_desired_directory
     ```
 
 3. Execute the following commands one by one:
